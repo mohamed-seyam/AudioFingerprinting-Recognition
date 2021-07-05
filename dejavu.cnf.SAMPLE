@@ -1,0 +1,9 @@
+{
+    "database": {
+        "host": "127.0.0.1",
+        "user": "root",
+        "password": "123456789Zezo",
+        "database": "DSP_TASK_4"
+    },
+    "database_type": "mysql"
+}
